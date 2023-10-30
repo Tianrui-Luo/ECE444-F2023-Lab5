@@ -2,6 +2,11 @@
 
 This repo is reproduced based on https://github.com/mjhea0/flaskr-tdd
 
+### Testcase wrote for project
+
+[https://github.com/lyfuuoo/ECE444_F2023_Group14/tree/tianrui_luo_branch](https://github.com/lyfuuoo/ECE444_F2023_Group14/blob/tianrui_luo_branch/backend/tests/test_backend.py#L36-L40)
+
+
 ### Pros & Cons of Test Driven Development (TDD)
 
 **Pros**
